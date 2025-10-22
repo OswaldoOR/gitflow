@@ -1,2 +1,1 @@
-﻿Me llamo Oswaldo
-voy en semestre 7
+Hola
